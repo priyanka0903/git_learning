@@ -1,0 +1,5 @@
+Home / PostgreSQL Administration / PostgreSQL Roles Management
+PostgreSQL Roles Management
+
+ 
+Summary: in this tutorial, we will introduce you to PostgreSQL roles concept and show you how to create user roles and group roles.
